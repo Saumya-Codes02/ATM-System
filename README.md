@@ -77,3 +77,4 @@ This project is open-source and available under the MIT License.
 | v2.0.0  | ⏳ Planned      | Transaction history                            |
 | v3.0.0  | ⏳ Planned      | File handling and persistent account data      |
 | v4.0.0  | ⏳ Planned      | Multiple account support                       |
+© 2025 GitHub • Code of Conduct • MIT License
